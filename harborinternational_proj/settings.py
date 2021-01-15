@@ -31,8 +31,8 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'harbor_website_app',
     #'login_app',
+    'harbor_website_app',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
